@@ -7,7 +7,7 @@ from keras.layers import Dense, Flatten, Input, Conv2D, MaxPooling2D
 
 EPOCHS = 10
 BATCH_SIZE =128
-MODEL_PATH = "model1.keras"
+MODEL_PATH = "model_a.keras"
 
 
 def load_data():
